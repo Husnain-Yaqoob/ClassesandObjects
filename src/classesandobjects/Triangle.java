@@ -10,5 +10,8 @@ package classesandobjects;
  * @author hasan
  */
 public class Triangle {
+    int side1;
+    int side2;
+    int side3;
     
 }
