@@ -15,6 +15,6 @@ public class ClassesandObjects {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
+        Triangle tri1= new Triangle();
     
 }
