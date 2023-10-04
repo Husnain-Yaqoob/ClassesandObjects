@@ -41,6 +41,7 @@ public class ClassesandObjects {
            sideLengths[16]=3;
         
            Person husn = new Person();
-           husn.favTriangle=tri5;
+          
+          
     }
 }
